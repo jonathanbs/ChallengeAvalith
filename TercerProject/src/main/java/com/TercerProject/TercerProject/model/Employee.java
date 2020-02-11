@@ -2,7 +2,7 @@ package com.TercerProject.TercerProject.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Data;
-
+//hola
 import javax.persistence.*;
 
 @Data
